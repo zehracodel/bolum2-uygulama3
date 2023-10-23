@@ -1,0 +1,10 @@
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\bin\Debug\Bolun2-Uygulama32.exe.config
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\bin\Debug\Bolun2-Uygulama32.exe
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\bin\Debug\Bolun2-Uygulama32.pdb
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2-Uygulama32.csproj.AssemblyReference.cache
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2_Uygulama32.Form1.resources
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2_Uygulama32.Properties.Resources.resources
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2-Uygulama32.csproj.GenerateResource.cache
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2-Uygulama32.csproj.CoreCompileInputs.cache
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2-Uygulama32.exe
+C:\Users\yazilim.stajyer\source\repos\Bolun2-Uygulama32\Bolun2-Uygulama32\obj\Debug\Bolun2-Uygulama32.pdb
